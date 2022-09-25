@@ -1,1 +1,2 @@
 tag Test : release version 1
+tag Test : release version 1.0.0
